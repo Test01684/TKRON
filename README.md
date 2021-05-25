@@ -37,6 +37,7 @@ made with :
 SOFTE Inc.
 
 
+https://github.com/SOFTEINC/TKRON/blob/main/IMG-20210524-WA0003.jpg
 
 Ammar Abdelhalem
 
